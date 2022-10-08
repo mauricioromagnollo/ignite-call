@@ -1,0 +1,8 @@
+{
+  "name": "ignite-call",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
